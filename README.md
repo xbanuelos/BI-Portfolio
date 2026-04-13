@@ -30,8 +30,3 @@ phase_05/ -> Porfolio capstones & deployed apps
 
 ---
 Currently working through Phase 01 - Dataset: Olist Brazilian E-Commerce
-
-
-
-
-pj
