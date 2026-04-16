@@ -1,7 +1,9 @@
 # Project 04 — Seller Ranking Algorithm
 
 **Dataset:** Olist Brazilian E-Commerce (Kaggle)
+
 **Domain variant:** Clinic/Hospital Ranking — wait time, satisfaction, volume, cost
+
 **Tools:** Python, Pandas, Matplotlib, scikit-learn (MinMaxScaler)
 
 ---
@@ -75,9 +77,4 @@ maintain customer trust at scale.
 
 ---
 
-## Files
 
-```
-project_04_seller_ranking/
-└── seller_ranking.ipynb
-```
