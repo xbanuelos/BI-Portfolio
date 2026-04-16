@@ -1,15 +1,17 @@
 # Project 01 — Order Funnel Analysis
 
 **Dataset:** Olist Brazilian E-Commerce (Kaggle)
+
 **Domain variant:** Patient Visit Funnel — appointment scheduling → attendance → follow-up
+
 **Tools:** Python, Pandas, Matplotlib
 
 ---
 
 ## Business Context
 
-In e-commerce platforms like Rappi or MercadoLibre, understanding how orders
-move through each stage of the lifecycle is critical for identifying operational
+In e-commerce platforms, understanding how orders move through each 
+stage of the lifecycle is critical for identifying operational
 bottlenecks. This project maps the Olist order funnel from purchase to delivery
 and quantifies where orders are lost at each step.
 
@@ -46,11 +48,3 @@ recover over 1,600 orders per cycle.
 
 ---
 
-## Files
-
-```
-project_01_order_funnel/
-├── order_funnel.ipynb
-└── outputs/
-    └── order_funnel_3charts.png
-```
