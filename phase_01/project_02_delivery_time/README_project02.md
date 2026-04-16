@@ -1,7 +1,9 @@
 # Project 02 — Delivery Time Analysis
 
 **Dataset:** Olist Brazilian E-Commerce (Kaggle)
+
 **Domain variant:** Lab Result Turnaround Time — delays by department and sample type
+
 **Tools:** Python, Pandas, Matplotlib, Seaborn
 
 ---
@@ -80,9 +82,3 @@ could resolve the majority of late delivery complaints at minimal cost.
 
 ---
 
-## Files
-
-```
-project_02_delivery_time/
-└── delivery_time_analysis.ipynb
-```
