@@ -1,7 +1,9 @@
 # Project 03 — Peak Hours Heatmap by City Zone
 
 **Dataset:** Olist Brazilian E-Commerce (Kaggle)
+
 **Domain variant:** ER Admission Heatmap — admissions by hour and day of week
+
 **Tools:** Python, Pandas, Matplotlib, Seaborn
 
 ---
@@ -75,10 +77,3 @@ For ops teams, these patterns directly inform courier scheduling, push
 notification timing, and delivery date adjustments for late-night orders.
 
 ---
-
-## Files
-
-```
-project_03_peak_hours_heatmap/
-└── peak_hours_heatmap.ipynb
-```
